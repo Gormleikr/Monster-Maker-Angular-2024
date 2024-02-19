@@ -1,0 +1,23 @@
+main-view-component{
+    /* background-color: cadetblue; */
+}
+* {
+    /* background-color: #53435a; */
+    background-color: #53435a;
+
+}
+
+.leftside{
+    width: 45vw;
+    /* display: flexbox; */
+display: inline-block;
+    background-color: red;
+}
+.rightside{
+    width: 45vw;
+    display: inline-block;
+    background-color: blue;
+}
+.invisible{
+display: none;
+}

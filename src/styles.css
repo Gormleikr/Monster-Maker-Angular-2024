@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    background-color: #53435a;
+}
+/* should change that to dark mode and add a light mode... 
+will want to look into what is standard way of implementing that as 
+browsers might handle it for some ppl
+ */
+ .dark-mode{
+    background-color: #53435a;
+    /* background-color: rgb(65, 56, 73); */
+ }

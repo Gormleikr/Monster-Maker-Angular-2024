@@ -1,0 +1,17 @@
+.leftSide{
+    width: 45vw;
+    border: solid 1px purple;
+    border:yellowgreen solid 2px;
+    color: violet;
+    background-color: thistle;
+    /* class is broken... */
+}
+/* left-side could be replaces with other class for different sized screens... */
+
+
+*{
+    /* background-color: red; */
+    /* width: 45vw;
+    border: solid 3px black; */
+    /* works... */
+}
